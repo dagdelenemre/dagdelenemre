@@ -6,8 +6,8 @@ Developer / Cybersecurity — Eskişehir, Türkiye
 resilience toolkit for Python (retry, circuit breaker, rate limit, hedging).
 `pip install nopanic`
 
-🌐 [dagdelean.dev](https://dagdelean.dev) · 📦 [PyPI](https://pypi.org/user/dagdelean/)
-
 - 🔭 Currently exploring Windows API & memory manipulation techniques.
 - 🚀 Check out my [win32-api-security-research](https://github.com/dagdelenemre/win32-api-security-research) repo for Red Team PoCs.
 
+
+🌐 [dagdelean.dev](https://dagdelean.dev) · 📦 [PyPI](https://pypi.org/user/dagdelean/)
