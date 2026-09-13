@@ -1,6 +1,6 @@
 ## Emre Kadir Dağdelen
 
-Developer / Cybersecurity — Eskişehir, Türkiye
+Developer / Cybersecurity — Samsun, Türkiye
 
 🧯 Building [nopanic](https://github.com/dagdelenemre/nopanic): the unified
 resilience toolkit for Python (retry, circuit breaker, rate limit, hedging).
