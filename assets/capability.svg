@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="244" viewBox="0 0 1140 244" role="img" aria-label="Capability matrix: web application testing, network and infrastructure testing, applied cryptography (active); Windows internals and Win32 API, Active Directory attack paths (training); adversary emulation and C2 (next).">
+<defs>
+<radialGradient id="cg" cx=".05" cy="0" r="1">
+<stop offset="0" stop-color="#ff3b21" stop-opacity=".09"/>
+<stop offset=".5" stop-color="#ff3b21" stop-opacity="0"/>
+</radialGradient>
+<pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#ece8de" stroke-width="1"/></pattern>
+</defs>
+<style>@font-face{font-family:'f45';src:url(data:font/woff2;base64,d09GMgABAAAAAAGsAA8AAAAAA2gAAAFYAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGyAcKgZgP1NUQVQyADQRCAo0SQE2AiQDBgsGAAQgBWYHIAwHG20CYC4O7IbXbxXGV6shEvahYoRKJ4j24ze7d19x+2IRTyRzr2RLnSiaCZUkVs1fvYR2TKXyu1TFwc5/zkKdHNLpO7DEGHF2iwMMLRAtWuAha0JjHowv0Gm6mWLp8rVbtavQAABkwJDMjTx76Op5k7Ea1Hycs7WQt3In1piG2G9unCSH6UioCABgjhd7rktX+dhEXew3AnJn6UKXIoR2ifECffLG0asnI7hx4uTVIKRAxnBHQaJgvCIwXtWFqgp0NfRR80qAEA2jEBJUFAzDSEAFhVrLsLZRrYdHtAzf1zJiU9fUrk+9Hc8eBzcFghdzbTowatG39lI+wssPC+9/YxN5pnShVYLgDSMf22RTnhEAgKgmCKRhCggAAFQLFVE7pJEECYYbidBp6r3DDddns2NOuOasQy7b4ZhTTjjpqh1OOeqqk9a74LJzDjmrAM3mzoj3o+levQs=) format('woff2');}@font-face{font-family:'f46';src:url(data:font/woff2;base64,d09GMgABAAAAAAHcAA8AAAAAA8AAAAGGAAIAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGyAcKgZgP1NUQVRMADQRCApIWwE2AiQDCAsGAAQgBYEUByAMBxvJAiCGh/+3I+/7M5HcbhVyUa4jLtoQfVKmAjuwE2r59MKsO/3hfAiwHQPw9IusCKNELxwmcdjJAtVAN4bFZBhe/uRRgbb6Gyhmzl5YqrUcigIQaGuk0VLE1nF9dcNGvYNrkKdp8VAL0vV0EIelJV6a6jc4fIwlixbPc9tgg7ONxUTyhXEcAaljOo/BMiG0lqG7hPFSc13D6giaV61uCGJNQ/X66CvJdRZI0UsdMkmKfiBAQobuMoHucoORywUGF8U4FG8FCFEUOiEkkKMFOqMPIMfQPGO/XYsOeU2H8tKK8vqsdGJF+xXXv14/OaX01P87z079P/X/2L+dX7R/KdgukEw/Ujt/WGWnkm+ts+wLPP/X/xJ8+n36tBWkOek6Wkog+J2mEwEoHQWKZIYnxKSzFp1Qs5YWy0TeRtKRMwna6yihrb7SS3vDsS9NvtdPWyWWq7dKo/WqbVWh3hqrrNagwhp1Gqy22CZbbVBtvXkaZLtGreU2GY82yoBivfGoL0ex52J+BAA=) format('woff2');}@font-face{font-family:'f47';src:url(data:font/woff2;base64,d09GMgABAAAAAAOcABAAAAAABogAAANDAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVEAAfBEICoUchAgBNgIkAxgLGAAEIAWBAgcgDAcbxgRRlC/KQoqPxDhG8Q8TStyPUMnheXqv+nMr1apKpnvlrISetfkl+0FfZPofABj2/97i2XhvIFuFAUh2XIABDzihBAO7KT3xuLxsIl1gH/695VOy2yfJPDu1a5UYngABXABAIQgxBAEM2cmJ1GvQrA1RNEAQBAACGApQCIWSpQzpOWYYmSkiTavzqgMhUIsOCk3vlm6UkQGgLDEFoAHBxnksIZepTQfnu6AS6Dr8DQiA6uD4gI+DIERRQHoUkA81vs+YASIwvv+AMQKCJoEASlz6AIKARFQHABTgAOlxEAGtGQBkJIFDmNrUpT4NaUwqrWhDOzoEgvQvPLjkogvOO+2E4445muD9BQmC4oBgAcgIJIBTIAIAaAAcFDKJgxxf1NqJ6uxuHjfF07FoNK2NxMO9vJDbNeTZyXai6Wa6tBOPnoteysxXdvGLF23Ny5dm0XNmvLCLX7W3zyXYiIeLSHi8R6/EiKeMmC3PrdiQkThGW2zEdrWdHBs23UxHZSNeuRkznj83RnmdbMd+dvEzmfnUGK+WMrmr7W4nmEm2Mxmc2+btbDt0NO3yGL9N0s/j/5X36eunpXcOGUZ++8z/cws3bD0SH3K6vy8btowhaVavf/ro8eYnG9pMatBgnu6+0GvRqFXVFskFy5c3WtCsUr1mXpOFoc71Zlowri7j/b/n9rlXZnqZ+53mUiM+deHze4+2PN3YZkKdBtNCHZd4DRs0rtwydcHytcnFbQrcy9Os5Kb52bfNqp3362QRkstu6pvL8kQVDf0fjxxNRDJumRNz08Uv1GJslVpDm9Sr3X9c5dRVDfX97jtedN9/Y0X5VyVKviq/gnSrvlnWa9k3q7DP/B7u8laXpvypWTe27J6d+UBi6/zMm25sODVvz5i/Dya2jf8bgOAzBBB4MX3yh+7xar9FHec7gHff/rAW4Ju/9+4lf/C92u6UAcIoAAT+JFDnCSZHDIJNyc3kAqAO46lEkoZ0oTj5KYgAljw4AAiuC1EHB9ExFClw0Qm4pGiCIasWIUE+04VDytGKvvRnLEPoySja05eB9GcAY8QG0ocxZmtBOJSB1GE4Q+hDKsMZxVB6MgQHAIItlXlTPC3B3Oml) format('woff2');}</style>
+<clipPath id="rcap"><rect width="1140" height="244" rx="16"/></clipPath>
+<g clip-path="url(#rcap)"><rect width="1140" height="244" fill="#111110"/>
+<rect width="1140" height="244" fill="url(#cg)"/>
+<rect width="1140" height="244" fill="url(#hatch)" opacity=".04"/>
+<text x="28" y="34" font-family="f45" font-size="12" letter-spacing="2" fill="#9a958a">STATUS, NOT PERCENTAGES</text>
+<rect x="28.0" y="56" width="531.0" height="46" rx="7" fill="#0b0b0a" stroke="#3a3833"/>
+<rect x="28.0" y="56" width="3" height="46" rx="1.5" fill="#ff3b21"/>
+<text x="46.0" y="85" font-family="f46" font-size="15.5" fill="#ece8de">Web application testing</text>
+<rect x="472.8" y="69" width="66.2" height="20" rx="10" fill="none" stroke="#ff3b21" stroke-opacity=".5"/>
+<text x="482.8" y="83" font-family="f47" font-size="11" letter-spacing="1.5" fill="#ff3b21">ACTIVE</text>
+<rect x="28.0" y="112" width="531.0" height="46" rx="7" fill="#0b0b0a" stroke="#3a3833"/>
+<rect x="28.0" y="112" width="3" height="46" rx="1.5" fill="#ff3b21"/>
+<text x="46.0" y="141" font-family="f46" font-size="15.5" fill="#ece8de">Network &amp; infrastructure testing</text>
+<rect x="472.8" y="125" width="66.2" height="20" rx="10" fill="none" stroke="#ff3b21" stroke-opacity=".5"/>
+<text x="482.8" y="139" font-family="f47" font-size="11" letter-spacing="1.5" fill="#ff3b21">ACTIVE</text>
+<rect x="28.0" y="168" width="531.0" height="46" rx="7" fill="#0b0b0a" stroke="#3a3833"/>
+<rect x="28.0" y="168" width="3" height="46" rx="1.5" fill="#ff3b21"/>
+<text x="46.0" y="197" font-family="f46" font-size="15.5" fill="#ece8de">Applied cryptography</text>
+<rect x="472.8" y="181" width="66.2" height="20" rx="10" fill="none" stroke="#ff3b21" stroke-opacity=".5"/>
+<text x="482.8" y="195" font-family="f47" font-size="11" letter-spacing="1.5" fill="#ff3b21">ACTIVE</text>
+<rect x="581.0" y="56" width="531.0" height="46" rx="7" fill="#0b0b0a" stroke="#3a3833"/>
+<rect x="581.0" y="56" width="3" height="46" rx="1.5" fill="#cfc9bb"/>
+<text x="599.0" y="85" font-family="f46" font-size="15.5" fill="#ece8de">Windows internals &amp; Win32 API</text>
+<rect x="1010.4" y="69" width="81.6" height="20" rx="10" fill="none" stroke="#cfc9bb" stroke-opacity=".5"/>
+<text x="1020.4" y="83" font-family="f47" font-size="11" letter-spacing="1.5" fill="#cfc9bb">TRAINING</text>
+<rect x="581.0" y="112" width="531.0" height="46" rx="7" fill="#0b0b0a" stroke="#3a3833"/>
+<rect x="581.0" y="112" width="3" height="46" rx="1.5" fill="#cfc9bb"/>
+<text x="599.0" y="141" font-family="f46" font-size="15.5" fill="#ece8de">Active Directory attack paths</text>
+<rect x="1010.4" y="125" width="81.6" height="20" rx="10" fill="none" stroke="#cfc9bb" stroke-opacity=".5"/>
+<text x="1020.4" y="139" font-family="f47" font-size="11" letter-spacing="1.5" fill="#cfc9bb">TRAINING</text>
+<rect x="581.0" y="168" width="531.0" height="46" rx="7" fill="#0b0b0a" stroke="#3a3833"/>
+<rect x="581.0" y="168" width="3" height="46" rx="1.5" fill="#67635a"/>
+<text x="599.0" y="197" font-family="f46" font-size="15.5" fill="#ece8de">Adversary emulation &amp; C2</text>
+<rect x="1041.2" y="181" width="50.8" height="20" rx="10" fill="none" stroke="#67635a" stroke-opacity=".5"/>
+<text x="1051.2" y="195" font-family="f47" font-size="11" letter-spacing="1.5" fill="#67635a">NEXT</text></g>
+<rect x=".5" y=".5" width="1139" height="243" rx="15.5" fill="none" stroke="#3a3833"/>
+</svg>

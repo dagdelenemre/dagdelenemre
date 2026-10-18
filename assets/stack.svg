@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="128" viewBox="0 0 1140 128" role="img" aria-label="Stack: Python, C (C11), C#, TypeScript, Node.js, Next.js, PostgreSQL, Linux, Docker, Git">
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="128" viewBox="0 0 1140 128" role="img" aria-label="Stack: Python, C (C11), C++, C#, JavaScript, HTML, CSS">
 <defs>
 <radialGradient id="sg" cx=".05" cy="0" r="1">
 <stop offset="0" stop-color="#ff3b21" stop-opacity=".09"/>
@@ -6,41 +6,32 @@
 </radialGradient>
 <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#ece8de" stroke-width="1"/></pattern>
 </defs>
-<style>@font-face{font-family:'f37';src:url(data:font/woff2;base64,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) format('woff2');}@font-face{font-family:'f38';src:url(data:font/woff2;base64,d09GMgABAAAAAAGwAA8AAAAAA2gAAAFZAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGyAcKgZgP1NUQVQyADQRCAo0SQE2AiQDBgsGAAQgBWYHIAwHG20CYC4O7IbXbxXGV6shEvahYoRKJ4j24ze7d19x+2IRTyRzr2RLnSiaCZUkVs1f3YR2TKXyu8YxVcWW/5yFOjmk03dgiTHi7BYHGFogWrTAQ9aExjwYX6DTdDPF0uVrt2pXoQEAyIAhmRt59tDV8yZjNaj5OGdrIW/lTqwxDbHf3DhJDtORUBEAwBwv9lyXrvKxgbrYbwTkztKFLkUI7RLjBfrkjaNXT0Zw48TJq0FIgYzhjoJEwXhFYLyqC1UV6Groo+aVACEaRiEkqCgYhpGACgq1lmFto1oPj2gZvq9lxKauqV2fejuePQ5uCgQv5tt0YNSib+2lfISXHxbe/zKbyDOlC60SBG8Y+dgmm/KMAABENUEgDVNAAACgWqiI2iGNJEgw3EiETlPvHW64Ppsdc8I1Zx1y2Q7HnHLCSVftcMpRV5203gWXnXPIWQVoNndGvB9N9+pdAAAA) format('woff2');}</style>
+<style>@font-face{font-family:'f48';src:url(data:font/woff2;base64,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) format('woff2');}@font-face{font-family:'f49';src:url(data:font/woff2;base64,d09GMgABAAAAAAGsAA8AAAAAA2gAAAFYAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGyAcKgZgP1NUQVQyADQRCAo0SQE2AiQDBgsGAAQgBWYHIAwHG20CYC4O7IbXbxXGV6shEvahYoRKJ4j24ze7d19x+2IRTyRzr2RLnSiaCZUkVs1fvYR2TKXyu1TFwc5/zkKdHNLpO7DEGHF2iwMMLRAtWuAha0JjHowv0Gm6mWLp8rVbtavQAABkwJDMjTx76Op5k7Ea1Hycs7WQt3In1piG2G9unCSH6UioCABgjhd7rktX+dhEXew3AnJn6UKXIoR2ifECffLG0asnI7hx4uTVIKRAxnBHQaJgvCIwXtWFqgp0NfRR80qAEA2jEBJUFAzDSEAFhVrLsLZRrYdHtAzf1zJiU9fUrk+9Hc8eBzcFghdzbTowatG39lI+wssPC+9/YxN5pnShVYLgDSMf22RTnhEAgKgmCKRhCggAAFQLFVE7pJEECYYbidBp6r3DDddns2NOuOasQy7b4ZhTTjjpqh1OOeqqk9a74LJzDjmrAM3mzoj3o+levQs=) format('woff2');}</style>
 <clipPath id="rs"><rect width="1140" height="128" rx="16"/></clipPath>
 <g clip-path="url(#rs)"><rect width="1140" height="128" fill="#111110"/>
 <rect width="1140" height="128" fill="url(#sg)"/>
 <rect width="1140" height="128" fill="url(#hatch)" opacity=".04"/>
-<text x="28" y="34" font-family="f38" font-size="12" letter-spacing="2" fill="#9a958a">TOOLS OF THE TRADE — LANGUAGES &amp; RUNTIME</text>
+<text x="28" y="34" font-family="f49" font-size="12" letter-spacing="2" fill="#9a958a">LANGUAGES I BUILD AND BREAK IN</text>
 <rect x="28.0" y="56" width="97.0" height="34" rx="6" fill="#0b0b0a" stroke="#3a3833"/>
 <circle cx="43.0" cy="73" r="3" fill="#ff3b21"/>
-<text x="54.0" y="78" font-family="f37" font-size="15" letter-spacing=".5" fill="#ece8de">Python</text>
+<text x="54.0" y="78" font-family="f48" font-size="15" letter-spacing=".5" fill="#ece8de">Python</text>
 <rect x="135.0" y="56" width="107.5" height="34" rx="6" fill="#0b0b0a" stroke="#3a3833"/>
 <circle cx="150.0" cy="73" r="3" fill="#ff3b21"/>
-<text x="161.0" y="78" font-family="f37" font-size="15" letter-spacing=".5" fill="#ece8de">C (C11)</text>
-<rect x="252.5" y="56" width="55.0" height="34" rx="6" fill="#0b0b0a" stroke="#3a3833"/>
+<text x="161.0" y="78" font-family="f48" font-size="15" letter-spacing=".5" fill="#ece8de">C (C11)</text>
+<rect x="252.5" y="56" width="65.5" height="34" rx="6" fill="#0b0b0a" stroke="#3a3833"/>
 <circle cx="267.5" cy="73" r="3" fill="#ff3b21"/>
-<text x="278.5" y="78" font-family="f37" font-size="15" letter-spacing=".5" fill="#ece8de">C#</text>
-<rect x="317.5" y="56" width="139.0" height="34" rx="6" fill="#0b0b0a" stroke="#3a3833"/>
-<circle cx="332.5" cy="73" r="3" fill="#ff3b21"/>
-<text x="343.5" y="78" font-family="f37" font-size="15" letter-spacing=".5" fill="#ece8de">TypeScript</text>
-<rect x="466.5" y="56" width="107.5" height="34" rx="6" fill="#0b0b0a" stroke="#3a3833"/>
-<circle cx="481.5" cy="73" r="3" fill="#ff3b21"/>
-<text x="492.5" y="78" font-family="f37" font-size="15" letter-spacing=".5" fill="#ece8de">Node.js</text>
-<rect x="584.0" y="56" width="107.5" height="34" rx="6" fill="#0b0b0a" stroke="#3a3833"/>
-<circle cx="599.0" cy="73" r="3" fill="#ff3b21"/>
-<text x="610.0" y="78" font-family="f37" font-size="15" letter-spacing=".5" fill="#ece8de">Next.js</text>
-<rect x="701.5" y="56" width="139.0" height="34" rx="6" fill="#0b0b0a" stroke="#3a3833"/>
-<circle cx="716.5" cy="73" r="3" fill="#ff3b21"/>
-<text x="727.5" y="78" font-family="f37" font-size="15" letter-spacing=".5" fill="#ece8de">PostgreSQL</text>
-<rect x="850.5" y="56" width="86.5" height="34" rx="6" fill="#0b0b0a" stroke="#3a3833"/>
-<circle cx="865.5" cy="73" r="3" fill="#ff3b21"/>
-<text x="876.5" y="78" font-family="f37" font-size="15" letter-spacing=".5" fill="#ece8de">Linux</text>
-<rect x="947.0" y="56" width="97.0" height="34" rx="6" fill="#0b0b0a" stroke="#3a3833"/>
-<circle cx="962.0" cy="73" r="3" fill="#ff3b21"/>
-<text x="973.0" y="78" font-family="f37" font-size="15" letter-spacing=".5" fill="#ece8de">Docker</text>
-<rect x="28.0" y="98" width="65.5" height="34" rx="6" fill="#0b0b0a" stroke="#3a3833"/>
-<circle cx="43.0" cy="115" r="3" fill="#ff3b21"/>
-<text x="54.0" y="120" font-family="f37" font-size="15" letter-spacing=".5" fill="#ece8de">Git</text></g>
+<text x="278.5" y="78" font-family="f48" font-size="15" letter-spacing=".5" fill="#ece8de">C++</text>
+<rect x="328.0" y="56" width="55.0" height="34" rx="6" fill="#0b0b0a" stroke="#3a3833"/>
+<circle cx="343.0" cy="73" r="3" fill="#ff3b21"/>
+<text x="354.0" y="78" font-family="f48" font-size="15" letter-spacing=".5" fill="#ece8de">C#</text>
+<rect x="393.0" y="56" width="139.0" height="34" rx="6" fill="#0b0b0a" stroke="#3a3833"/>
+<circle cx="408.0" cy="73" r="3" fill="#ff3b21"/>
+<text x="419.0" y="78" font-family="f48" font-size="15" letter-spacing=".5" fill="#ece8de">JavaScript</text>
+<rect x="542.0" y="56" width="76.0" height="34" rx="6" fill="#0b0b0a" stroke="#3a3833"/>
+<circle cx="557.0" cy="73" r="3" fill="#ff3b21"/>
+<text x="568.0" y="78" font-family="f48" font-size="15" letter-spacing=".5" fill="#ece8de">HTML</text>
+<rect x="628.0" y="56" width="65.5" height="34" rx="6" fill="#0b0b0a" stroke="#3a3833"/>
+<circle cx="643.0" cy="73" r="3" fill="#ff3b21"/>
+<text x="654.0" y="78" font-family="f48" font-size="15" letter-spacing=".5" fill="#ece8de">CSS</text></g>
 <rect x=".5" y=".5" width="1139" height="127" rx="15.5" fill="none" stroke="#3a3833"/>
 </svg>

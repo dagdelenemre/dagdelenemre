@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="52" viewBox="0 0 109 52" role="img" aria-label="PYPI">
-<style>@font-face{font-family:'f43';src:url(data:font/woff2;base64,d09GMgABAAAAAAI4ABAAAAAABFAAAAHeAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhgbIBwqBmA/U1RBVDIARBEICoFcgToBNgIkAwoLCgAEIAVmByAMBxsKA0ieB9mZ6bRYnrwSYyg9QaTLqh7JJK3tA+CIiZ6A4wsfKL7wAfOD6BHUNJahxtKHyLhUZZ+eRtpaGBBEmmGCCYdJ9p0Dv8DxYPgiFKEZlyVBshs9jjYnUAOEkAmEQKGHXmL23MWrNcqhqgCEBhkixVoO7zh9VBdYgzx9mIarIz2Q1mPR3BBbjYz9pFJTghwBAOfx6T61wIbsejWefKa/EZDWZ33QRyaERgkdBAZI53af3h/BuX37TwchCaSo2Q0SMnSQCXSQG45GjRIWWG5DVfG/qnerFQEgRFVpRchBIxowAQsAOciEJPI8qzU31cqG1vqdzXW1LXXNZZR1RbQq8lLZ0Pzgl1+67YsviiJl5YOfx+2fFcWlDX3L/pvK9anINq7o063PT/2vfHNlRIf3WnHv7b63W5Y62qfv8jOTph1euGDawTMTlz/p42fG3hjNjbEq7+zz3LC3Wt56Ydijf34/+5GMgx8Fgk8vj2q7rXXyb41Zdh2+v/bD03D1r3foTXo164N6CQSPaPoQQE9H6BORPrTCCkf1Fsh1koGgLDdWJvImSQtbBDUtHArdujU1A6y0xz5nHLbDSevsccA++50WHrDb6VuXOuakI3Y4LAOql4w8Yt+N6u7L+cMAAA==) format('woff2');}
+<style>@font-face{font-family:'f58';src:url(data:font/woff2;base64,d09GMgABAAAAAAI8ABAAAAAABFAAAAHhAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhgbIBwqBmA/U1RBVDIARBEICoFcgToBNgIkAwoLCgAEIAVmByAMBxsKA0ieB9mp5WxRnnmtkMRQeh7+X5d535dM0tizAAghpjonJWC9ZQD7hSoIahrLUGPpQ2ScqquyT08jbS0MCCLNMMGEwyT7zoFf4HgwfBGK0IzLkiDZjR5HmxOoAULIBEKg0EsfsWjJqk2a5VBVAEJDDJNibaf2X3VGN1iDPH2YxmkgPZC2YeXcEHtMiGOkUkuCHAEA5/HpPrXc9uxiNY18gb8RkLZl/dBPJoRmCZ0EBknXHrrqWATXHj12VRCSQIqaQyAhQyeZQCe5cWjWLGG5dbZXFf+rere6IgCEqCp1hBw0ownTsRyQg0xIIs+zWmtLrWyqNx5obajtbmgto2wooq7IS2VT64Nffum2L74oipSVD34et39WFDdu718O3FluS0W2Y32/Hv1+Gnjum3PjO3XE+nvv8L09stSZfv3XXT1z7qkVy+eeuHrGuid9/MyUS5O4NEXlnf2eG/FW21svjHj0z+8XPZJx8KNA8OnbI+t767N+a86yi/D9hR+ehvN/S1/Sq1k/NEogeETThwB6O0KfiPSh9dY7o69ArosMBGW5KTKRt0ja2CKoaeNQ6NGtqRlkg8OOutop+11hq8OOO+qYq4THHXLVrWucdYXT9jslA6qXTDhi343q7nfyhwEAAAA=) format('woff2');}
 .btn:hover rect{fill:#17170f}</style>
 <g class="btn">
 <rect x="1" y="1" width="107" height="50" rx="10" fill="#111110" stroke="#3a3833"/>
 <g transform="translate(18,16)" fill="none" stroke="#ff3b21" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6l7-4 7 4v8l-7 4-7-4z"/><path d="M3 6l7 4 7-4M10 10v8"/></g>
-<text x="48" y="31" font-family="f43" font-size="14" letter-spacing="1" fill="#ece8de">PYPI</text>
+<text x="48" y="31" font-family="f58" font-size="14" letter-spacing="1" fill="#ece8de">PYPI</text>
 </g>
 </svg>

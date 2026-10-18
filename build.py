@@ -147,7 +147,7 @@ def banner():
     txt  = Font("text", 460, 100)     # tagline
     sig  = Font("mono", 620, 100)     # handle
 
-    name = "EMRE KADIR DAĞDELEN"
+    name = "EMRE KADİR DAĞDELEN"
     name_sz = 92
     # Fit name within content width
     maxw = W - 160
@@ -156,7 +156,7 @@ def banner():
         name_sz = int(name_sz * maxw / nw)
         nw = disp.width(name, name_sz)
 
-    tagline = "I build for the web — and I am training to break it."
+    tagline = "I build for the web, and I am training to break it."
     tag_sz = 21
 
     labels = "OPERATOR FILE   /   TLP:CLEAR   /   REV 2026.10"
@@ -216,7 +216,7 @@ def banner():
         f'letter-spacing="1.5" fill="{SMOKE}">{esc(cls)}</text>')
 
     faces = disp.face() + lab.face() + txt.face() + sig.face()
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Emre Kadir Dagdelen (dagdelean) — operator file. I build for the web and I am training to break it.">
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Emre Kadir Dagdelen (dagdelean), operator file. I build for the web, and I am training to break it.">
 <defs>
 <radialGradient id="vig" cx=".2" cy="0" r="1.1">
 <stop offset="0" stop-color="{SIGNAL}" stop-opacity=".10"/>
@@ -339,7 +339,7 @@ def card(slug, tag, title, meta, desc, chips, footL, footR, seed=0):
         f'letter-spacing="1.5" fill="{SIGNAL}">{esc(footR)}</text>')
 
     faces = lab.face() + disp.face() + txt.face() + chipf.face()
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="{esc(title)} — {esc(desc)}">
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="{esc(title)}: {esc(desc)}">
 <defs>
 <radialGradient id="cardglow{seed}" cx=".1" cy="0" r="1">
 <stop offset="0" stop-color="{SIGNAL}" stop-opacity=".12"/>
@@ -388,8 +388,7 @@ def wrap(font, text, x, y, maxw, size, lh, fill, max_lines=3):
 # STACK
 # ════════════════════════════════════════════════════════════════════════
 def stack():
-    items = ["Python", "C (C11)", "C#", "TypeScript", "Node.js",
-             "Next.js", "PostgreSQL", "Linux", "Docker", "Git"]
+    items = ["Python", "C (C11)", "C++", "C#", "JavaScript", "HTML", "CSS"]
     W = 1140
     chipf = Font("mono", 520, 100)
     lab = Font("mono", 560, 100)
@@ -400,7 +399,7 @@ def stack():
              grain(W, H, ".04")]
     parts.append(
         f'<text x="{P}" y="34" font-family="{lab.css}" font-size="12" '
-        f'letter-spacing="2" fill="{ASH}">TOOLS OF THE TRADE — LANGUAGES &amp; RUNTIME</text>')
+        f'letter-spacing="2" fill="{ASH}">LANGUAGES I BUILD AND BREAK IN</text>')
     cx, cy = P, 56
     sz = 15
     for c in items:
@@ -469,6 +468,151 @@ SI_PROJ    = '<path d="M2 6l9-4 9 4v10l-9 4-9-4z"/><path d="M2 6l9 4 9-4M11 10v1
 SI_STACK   = '<path d="M11 2l9 5-9 5-9-5z"/><path d="M2 12l9 5 9-5M2 17l9 5 9-5"/>'
 SI_CONTACT = '<path d="M20 15a2 2 0 0 1-2 2H6l-4 4V4a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>'
 SI_PATH    = '<circle cx="4" cy="19" r="2.5"/><circle cx="19" cy="5" r="2.5"/><path d="M6 17L17 7"/>'
+SI_CAP     = '<circle cx="11" cy="11" r="9"/><circle cx="11" cy="11" r="4"/><path d="M11 1v4M11 17v4M1 11h4M17 11h4"/>'
+SI_CERT    = '<path d="M11 2l8 3v6c0 5-4 8-8 10-4-2-8-5-8-10V5z"/><path d="M7.5 11l2.5 2.5 5-5"/>'
+
+
+# ════════════════════════════════════════════════════════════════════════
+# CAPABILITY MATRIX  (status, not percentages)
+# ════════════════════════════════════════════════════════════════════════
+def capability():
+    rows = [
+        ("Web application testing", "ACTIVE"),
+        ("Network & infrastructure testing", "ACTIVE"),
+        ("Applied cryptography", "ACTIVE"),
+        ("Windows internals & Win32 API", "TRAINING"),
+        ("Active Directory attack paths", "TRAINING"),
+        ("Adversary emulation & C2", "NEXT"),
+    ]
+    stat_col = {"ACTIVE": SIGNAL, "TRAINING": BONE2, "NEXT": SMOKE}
+    W = 1140
+    P = 28
+    gap = 22
+    colw = (W - 2 * P - gap) / 2
+    rh = 56
+    top = 56
+    lab = Font("mono", 560, 100)
+    txt = Font("text", 460, 100)
+    badge = Font("mono", 600, 100)
+
+    parts = [f'<rect width="{W}" height="10" fill="{INK2}"/>']  # placeholder, replaced
+    H = top + 3 * rh + 20
+    parts = [f'<rect width="{W}" height="{H}" fill="{INK2}"/>',
+             f'<rect width="{W}" height="{H}" fill="url(#cg)"/>',
+             grain(W, H, ".04")]
+    parts.append(
+        f'<text x="{P}" y="34" font-family="{lab.css}" font-size="12" '
+        f'letter-spacing="2" fill="{ASH}">STATUS, NOT PERCENTAGES</text>')
+
+    for i, (label, status) in enumerate(rows):
+        col = i // 3
+        row = i % 3
+        x = P + col * (colw + gap)
+        y = top + row * rh
+        parts.append(
+            f'<rect x="{x:.1f}" y="{y}" width="{colw:.1f}" height="{rh-10}" rx="7" '
+            f'fill="{INK}" stroke="{LINE2}"/>')
+        parts.append(
+            f'<rect x="{x:.1f}" y="{y}" width="3" height="{rh-10}" rx="1.5" '
+            f'fill="{stat_col[status]}"/>')
+        parts.append(
+            f'<text x="{x+18:.1f}" y="{y+29}" font-family="{txt.css}" font-size="15.5" '
+            f'fill="{BONE}">{esc(label)}</text>')
+        bw = badge.width(status, 11)
+        bx = x + colw - bw - 30
+        parts.append(
+            f'<rect x="{bx-10:.1f}" y="{y+13}" width="{bw+20:.1f}" height="20" rx="10" '
+            f'fill="none" stroke="{stat_col[status]}" stroke-opacity=".5"/>')
+        parts.append(
+            f'<text x="{bx:.1f}" y="{y+27}" font-family="{badge.css}" font-size="11" '
+            f'letter-spacing="1.5" fill="{stat_col[status]}">{esc(status)}</text>')
+
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Capability matrix: web application testing, network and infrastructure testing, applied cryptography (active); Windows internals and Win32 API, Active Directory attack paths (training); adversary emulation and C2 (next).">
+<defs>
+<radialGradient id="cg" cx=".05" cy="0" r="1">
+<stop offset="0" stop-color="{SIGNAL}" stop-opacity=".09"/>
+<stop offset=".5" stop-color="{SIGNAL}" stop-opacity="0"/>
+</radialGradient>
+{HATCH}
+</defs>
+<style>{lab.face()}{txt.face()}{badge.face()}</style>
+<clipPath id="rcap"><rect width="{W}" height="{H}" rx="16"/></clipPath>
+<g clip-path="url(#rcap)">{chr(10).join(parts)}</g>
+<rect x=".5" y=".5" width="{W-1}" height="{H-1}" rx="15.5" fill="none" stroke="{LINE2}"/>
+</svg>'''
+    write("capability.svg", svg)
+
+
+# ════════════════════════════════════════════════════════════════════════
+# CLEARANCES  (certifications)
+# ════════════════════════════════════════════════════════════════════════
+def clearances():
+    rows = [
+        ("LVL 1", "CAPT", "Certified Associate Penetration Tester · Hackviser", "HV-CAPT-P746FUJO"),
+        ("LVL 2", "Siber Vatan", "Penetration Testing Training, 200 hours · national program", "12625794724929"),
+        ("LVL 3", "HV-CORE", "Hackviser Core Certification · Hackviser", "HV-CORE-0F82DTZZ"),
+    ]
+    W = 1140
+    P = 28
+    rh = 66
+    top = 52
+    H = top + len(rows) * rh + 8
+    lab = Font("mono", 560, 100)
+    disp = Font("display", 720, 72)
+    txt = Font("text", 440, 100)
+    cred = Font("mono", 540, 100)
+
+    parts = [f'<rect width="{W}" height="{H}" fill="{INK2}"/>',
+             f'<rect width="{W}" height="{H}" fill="url(#clg)"/>',
+             grain(W, H, ".04")]
+    parts.append(
+        f'<text x="{P}" y="34" font-family="{lab.css}" font-size="12" '
+        f'letter-spacing="2" fill="{ASH}">ESCALATION LOG · CREDENTIAL IDs ARE VERIFIABLE</text>')
+
+    for i, (lvl, name, desc, cid) in enumerate(rows):
+        y = top + i * rh
+        if i:
+            parts.append(f'<line x1="{P}" y1="{y}" x2="{W-P}" y2="{y}" stroke="{LINE}"/>')
+        cy = y + rh / 2
+        # level badge
+        lw = lab.width(lvl, 11)
+        parts.append(
+            f'<rect x="{P}" y="{cy-13:.1f}" width="{lw+22:.1f}" height="26" rx="5" '
+            f'fill="{INK}" stroke="{LINE2}"/>')
+        parts.append(
+            f'<text x="{P+11:.1f}" y="{cy+4:.1f}" font-family="{lab.css}" font-size="11" '
+            f'letter-spacing="1.5" fill="{SIGNAL}">{esc(lvl)}</text>')
+        nx = P + lw + 22 + 22
+        parts.append(
+            f'<text x="{nx:.1f}" y="{cy-4:.1f}" font-family="{disp.css}" font-size="26" '
+            f'fill="{BONE}" letter-spacing=".5">{esc(name)}</text>')
+        parts.append(
+            f'<text x="{nx:.1f}" y="{cy+18:.1f}" font-family="{txt.css}" font-size="13.5" '
+            f'fill="{ASH}">{esc(desc)}</text>')
+        # credential id, right
+        cw = cred.width(cid, 12.5)
+        parts.append(
+            f'<text x="{W-P-cw:.1f}" y="{cy-2:.1f}" font-family="{cred.css}" font-size="12.5" '
+            f'letter-spacing="1" fill="{SIGNAL}">{esc(cid)}</text>')
+        parts.append(
+            f'<text x="{W-P-cred.width("CREDENTIAL",10):.1f}" y="{cy+16:.1f}" '
+            f'font-family="{cred.css}" font-size="10" letter-spacing="2" '
+            f'fill="{SMOKE}">CREDENTIAL</text>')
+
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="Clearances: CAPT (HV-CAPT-P746FUJO), Siber Vatan 200-hour penetration testing training, HV-CORE (HV-CORE-0F82DTZZ).">
+<defs>
+<radialGradient id="clg" cx=".05" cy="0" r="1">
+<stop offset="0" stop-color="{SIGNAL}" stop-opacity=".09"/>
+<stop offset=".5" stop-color="{SIGNAL}" stop-opacity="0"/>
+</radialGradient>
+{HATCH}
+</defs>
+<style>{lab.face()}{disp.face()}{txt.face()}{cred.face()}</style>
+<clipPath id="rcl"><rect width="{W}" height="{H}" rx="16"/></clipPath>
+<g clip-path="url(#rcl)">{chr(10).join(parts)}</g>
+<rect x=".5" y=".5" width="{W-1}" height="{H-1}" rx="15.5" fill="none" stroke="{LINE2}"/>
+</svg>'''
+    write("clearances.svg", svg)
 
 
 def main():
@@ -476,7 +620,9 @@ def main():
     banner()
     header("currently", "§ ACTIVE", "Currently", SI_CURRENT)
     header("projects",  "§ ARSENAL", "Projects", SI_PROJ)
+    header("capability","§ MATRIX", "Capability", SI_CAP)
     header("stack",     "§ RUNTIME", "Stack", SI_STACK)
+    header("certs",     "§ CLEARANCE", "Clearances", SI_CERT)
     header("contact",   "§ C2", "Contact", SI_CONTACT)
 
     card("nopanic", "TOOL 01 · PYTHON 3.10+ · MIT · PyPI", "nopanic",
@@ -491,7 +637,7 @@ def main():
          "experimental · read before use",
          "An experimental 416-bit block cipher designed and written in portable "
          "C11, with CTR mode, a hash, a file-encryption tool, a browser build and "
-         "a Python reference — plus its own cryptanalysis report.",
+         "a Python reference, plus its own cryptanalysis report.",
          ["ARX", "CTR", "hash", "C11"],
          "WITH WRITE-UP", "github.com/dagdelenemre/bicbic416", seed=2)
 
@@ -500,7 +646,7 @@ def main():
          "Website for the Ondokuz Mayis University cyber security community, whose "
          "board I sit on: six training tracks, an event calendar and a three-part "
          "flag hunt hidden in the page.",
-         ["Next.js", "deploy", "CTF"],
+         ["design", "deploy", "CTF"],
          "COMMUNITY SITE", "omusiber.org", seed=3)
 
     card("sites", "AGENCY · POLLYKOO · SINCE 2024", "Client sites",
@@ -508,10 +654,12 @@ def main():
          "End-to-end websites for small businesses through Pollykoo Agency: "
          "arzagro.com (bilingual TR/EN), lotusinsaatemlak.com (dual-site) and "
          "solislumentr.com (cafe with a live QR menu).",
-         ["design", "build", "deploy", "SEO"],
+         ["design", "build", "deploy", "TR/EN"],
          "FOUNDER", "dagdelean.dev", seed=4)
 
+    capability()
     stack()
+    clearances()
 
     button("site", "DAGDELEAN.DEV", IC_SITE)
     button("mail", "DAGDELEN.CYBER@GMAIL.COM", IC_MAIL)
