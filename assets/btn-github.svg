@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="52" viewBox="0 0 128 52" role="img" aria-label="GITHUB">
+<style>@font-face{font-family:'f41';src:url(data:font/woff2;base64,d09GMgABAAAAAALsABAAAAAABTQAAAKUAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIBwqBmA/U1RBVDIARBEICoM0gmgBNgIkAxALEAAEIAVmByAMBxvCAyAuCmNjWfjJwoGKMvKpqaXh8IcXjSDyD/zZexcbFdED6uI6qVNCfUq4giri/7e1ZslxN2XVeQUkCVAhshGvUSELW1f1gPkUaqyT+wokwAQD5CxOIHmV/5yF645PeDjGEFh60CjgGANti65tFZYcyigM0HubqEwQr4EGHfFXLVAdEJIKAqHrqKq5lmJ8VEIGKDKUAIGqOuosraRpNxU014JpEcg57UtvFUjHZDGAaeWEWAJusQ4gVYMqCZARAPDV44+AY2NlFu/LII+FbwSkxXxrtFYIobKE+gLtpc3FzeUYYPPa8mYkJIEUalgFkFCgvkKgvqw3KqssYaxYmSWMFS2jVN4puywBIERJLYRKoCaqYS8uATIoFILGs8Drq1SxrV5dMVarpJMKNRXUOWINkjVTC3sexDj3EltIxx/3HquKdrJg8gX3Ph3f58yqjx6xY4Q9D+n4vGJV1HAM2TapEnHEk8R4xhGSyFAHVTNBDfFdlE855gqkSHbscI61VevP7e4+uXBtUylUtpa2TTWVevvNHWPYG1sQUbHYOtA+1B4W4eXWd/ygsC2dbcGh/V36JL3gzUJr7Zx4urzdvLc+ry0sskdcPKKZHJPgnzF7avHc7NlMJ0t7fXf3NL64LdT2bWZXmNN6dvr/9FOWm/E/Q+rhE+OHm0KrRuffjy0ZM2/I+/1U5VkxWWFh0dkp0lE7cer04cO4/wT4XyD40/LF5qW64d8rF7wZnr+zrMDb35dTr/JDOql9UVECwfMJ6SZ6hTWdRMAxfGSOSv7mSOVsMkQlbRUguJQNVIisgqQmrYGgupqEUFXTXjVU195cJcq0qFagUbYSFcqUawasUKz51iR1GtUoUI0HyvW9SHw1yq7kkw==) format('woff2');}
+.btn:hover rect{fill:#17170f}</style>
+<g class="btn">
+<rect x="1" y="1" width="126" height="50" rx="10" fill="#111110" stroke="#3a3833"/>
+<g transform="translate(18,16)" fill="none" stroke="#ff3b21" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7.5 18c-4 1.2-4-2.2-5.5-2.6M18 17v-2.8c0-1 .1-1.4-.5-2 2.3-.3 4.5-1.2 4.5-5a3.9 3.9 0 0 0-1.1-2.7 3.6 3.6 0 0 0-.1-2.7s-.9-.3-2.9 1.1a9.6 9.6 0 0 0-5 0C5.4.2 4.5.5 4.5.5a3.6 3.6 0 0 0-.1 2.7A3.9 3.9 0 0 0 3.3 6c0 3.7 2.2 4.6 4.4 5-.5.5-.5 1-.5 1.7V18"/></g>
+<text x="48" y="31" font-family="f41" font-size="14" letter-spacing="1" fill="#ece8de">GITHUB</text>
+</g>
+</svg>

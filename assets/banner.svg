@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Emre Kadir Dagdelen (dagdelean) — operator file. I build for the web and I am training to break it.">
+<defs>
+<radialGradient id="vig" cx=".2" cy="0" r="1.1">
+<stop offset="0" stop-color="#ff3b21" stop-opacity=".10"/>
+<stop offset=".5" stop-color="#ff3b21" stop-opacity="0"/>
+</radialGradient>
+<pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#ece8de" stroke-width="1"/></pattern>
+<clipPath id="clip"><rect width="1200" height="340"/></clipPath>
+</defs>
+<style>
+@font-face{font-family:'f1';src:url(data:font/woff2;base64,d09GMgABAAAAAARIABAAAAAAB3AAAAPuAAIAgwAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIBwqBmA/U1RBVDIAZBEICocQhVMBNgIkAzgLHgAEIAVwByAMBxt/BSCO0SdrmGselwdVFVQ8/Dv27L63DVFPotmtilnzxiETCflHxEqgQcYrEXaQZ00qrCQeoDZnvsSz6WzHtFW1LWsbh/EYM/ZSOB6HRcoK9ZxjOIKqgi2XUSCsx+bamGZbHwg8jujjxwiMAqQUitCMFAIjzDJHbLFx8gKSCr0DAiMssUxStLFcCc9KAT4iaXctBVgtjTaprgF4EWrJdyCXN5h/80d2XHcTg08wL0SGbv7zBBixPu8joA4IZgDmGSqEYRKTBBbJ62mZBYgQ98/HZSGiQgpkiNgBkCiYpAhMUh0AxhmnYJ6NrNlz4REivYOkFeP42/6nn+jH+tF+pO//fyNIUFJRes2xCGPALEzENxAPAIzBKNCkLCrEC01ExdrxSAQ6C027shJ4xnHQWaiFnPkF9ICwwIBsvF9AII1aSM+nBVD8QqkBQQjQ28jwZty763XnDsWH2ohKomg502eCSaFQC1lhVNJd8+QzJh58huWoL2opatHa8TIx2mS5xMQtSsMNsTt3KsD0zQ9gBlGmAAWhMz57abhZyIF+ftTAQHpcPi3EC4OW6DBmgoOpoaH0CWALKXl+tIACSn4a8c+nhoTQyUEoyIn+nTzOuCNW9AqGAQqOSG28LTmJMjsvUAobmD7UMsYqIlTO1BMIG344jMbT71FrklEaR7TX2vMJ8Uc0p7EbMrHAO7rG7KgMxSSC307IyHNLIlygQ4+/A0qxVeixHezNbEPwCFZ1YG993GUmfksyM9MnYlIwD75gHmQywUzPLIk/7P1eOk74xMTD0u/wlKNt2cl1HleP8Uce/0QepA++3WN1ybn54u4a9er8Cgk+hWl5iS0dwzMSuCT898R/r8kSZw0NrLQ1BGAflxnpn8txfghaw0nXXq83SPG5SHygAqZCPVEzMrWxRAPfx245K7SemvipgjZpO8u/39DZ0kiRlxqCL8sjz+T2e4eNDNPGZ2ZkM9QzGPjODE2sZdg7Xdmf+ZfIuVtLc45nlPUCl7PZ8ZH6umqveSOB8Zh0xtFlwvmZcETgdGyx06ib/J6HfI+Ug7Sgv+kvaSkkDUmXkvlh6g+8Z7531lSS+mad9S0s6IrOs9sg9AxAWKJiqNFORxsOsLN/KvnEqd9fIEhPnztlq4ayGv0lYYk34OuBpSMA337OTANvgdAcdwAYIkFwkovtJUH8F7v0/KfGJFHPMgC85ViY4nHSLtinAyKPtslwmFaqQkIMWsU2AN9BMMY6zWYYwaLiW61XRCV3x7B1QYRMM8YkYpgl5xY1ynKHRIuVLUm4DK7SZIkXKVwSMbfFKxBN1+pkyleUeLHiKlgWqA/ImX8V/6sHuGYAAA==) format('woff2');}@font-face{font-family:'f2';src:url(data:font/woff2;base64,d09GMgABAAAAAAQgABAAAAAABywAAAPFAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIBwqBmA/U1RBVDIAbBEICoZkhUIBNgIkAx4LHgAEIAVmByAMBxtSBSAeg+NuKcOiiFiE/vPxv5Upgmq/z559+3nvWF2AQKOLimL2hA4duqi4RKNxgB7Vrzh+f19nvR9X9xiBBpRPszCD3Ruo/geAFThxTf5vrvPEB5DIRQTgDCc4oGybRmmUYAVO51QbER8TIkPorv3bGYECSJKQhKwtBLom04I2efqHA02G+j8g0DUXHyGlMKlTKeWFoJII6J7TK4IxkEk3CNEANruXjj1gGtkAqaeTIKNi0q8e7zScMt1B4ovaGuQN8AsBaRuRDmA6ohDaEsYhzEY4nV6ejRCnj2aXIxCSQIriEEBCVSRRSO7nSbYBo2QQJdPpMePCTaAIB///J0wECL2H+odHRE456YC9IiA2+xD1f0MIg2AyMAL8JvYDaKOAShJCV8KGYlMj56qdJ8tJSebOYpqckYRErzXUPCBJLrvJkr3zeA2WiMVHIkn7b4hQixjvEwojMNE7rFcAV4R4nzgKF7wR4NTedjwOp3SrnVg0FovFEIKZ3XgsUWx7AuZAaUm4IhBgWBrYgcdkahi1iBDbuiJc2TuWkaJXqAKvJm5bRFR27BWJIiXJ3RjSzedx0pVhkn3pNoiKsiyc0Xd1L7stpsQVC8fEXdqT9obLb1N676CWu3jfbbhyKw1h0Yuenq4t09XoH1lX7l0xWTmVCfwiT391rHn00QGp1QOU3125XZA/Mnr39q1bM7enwqs9PTrISW2SYb7hDqFBfaOjvn2Btp6Bkv6t5Fi35go3cJ5+3X+39Ch+gd44QKVL+2wt+G5J+3UH+E5/fuSINKU8bWxjQ8p0VlC5rXOej4dLRoVNwISf5M0DM+LU7bNj1utsTExwDtZj7r5+4G1i6+BpZ86TfZYgmS1TUJXm51ZYbx8RXmfnWUgK7Lzvb2/n4mNnyWWIEyRzZPKrUv1cC2rsw8LqLD0ziV6g/PBbV2LXixkgXaffaQd5R7q6ekUFU3pkbt2Z6OpqR9sPpW/c3bOrbYKi6h3cywghnTt8XRx5fT9ZFs6O1nFN8bZuNiYmnva2LgEeku6dhAivqmanbcHV1q4ZHo7OMc3y+5zSIaFjPrtm7czqNT1r1/Sir3n9uhb7B82WHrEQaOgHHV1LUAsKBK+foIAkafuvNGL1DT5/fT8BwJdfjzeAX7/bAtEUQFMCwQfsTq8ScNp5ADEzLs0Q/Q8enPlK4ceIN0+gr28thEHLEBVBoIa6ZWsRRe5IBnkUBcWgELomRiuK2UJlyFIhX4pSUWrmIJKtHEyOdOU/FahIqQIp8hGBej5TIFjuM/S/46QBAAAA) format('woff2');}@font-face{font-family:'f3';src:url(data:font/woff2;base64,d09GMgABAAAAAAHcAA8AAAAAA8AAAAGHAAIAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGyAcKgZgP1NUQVRMADQRCApIWwE2AiQDCAsGAAQgBYEUByAMBxvJAiCGh/+3I+/7M5HcbhVyUe6GXrQh+qQkOrATavn0wqw7/eF8CLAdA/D0i6wIo0QvHCZx2MkC1UA3hsVkGF7+5FGBxrrqLsZPnF6qoRyKAhBorL+BUsTWfNX86jU6BtcgT2PioXqk62kP9klLvDTab3D4GLNmzJzitp56ZmuK4eTT4xACUvN0Hj1lQmgoQ1sJQ6W6RdXLIqhbuqw6iOXV81dFZ0mupUCKDhYhk6ToAgIkZGgrE2gr1xO5XKBnUYxD8VaAEEWhBUICOeqhJToBcgzNM/ab1GuWL2hWXlpRvjgrHV7RdN71r9ePjCo99f/Os1P/T/0/+G/nF+1fCjYJJGP3L547rLJFybeGWfYFnv/regk+/Tp+zDzSpHQd9SUQ/E7T4QCUjgJFMsMTYtJSvU6oWX0zZSJvJGnOmQRNNZfQWGfpoKm+2JlG3uuisRJzLbZUjVXm26DCYssttUy1CsstUm2ZmdbaYLX5VpmiWrbLLTTXWuPRGhlQrDIU9eUotl/M9wM=) format('woff2');}@font-face{font-family:'f4';src:url(data:font/woff2;base64,d09GMgABAAAAAAPcABAAAAAABqgAAAOCAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmA/U1RBVDIAXBEICoYMhR4BNgIkAxILEgAEIAVmByAMBxsMBQieBdWN3syIA1t2iXL/2SEeyEao5Dw87fft3Hmz4t4dtyiibeunkpJrp5Gtw4ZKesf7Z80L9LNnBeJCQrvdCW6vEjogUHFR/wNcw564HP9vkjERnmyPxtJsLH5rCgbYBdT59DhbEzjKA8y85WykTy5VnBXtXWIywX0JNAKSEKqFQL1BR6BdezwCgCJD+R+g1aZx4bTZtty+UJAF+2TA4py+4TIQSQ9xIcDB8dtxljxSQGpQlyAjkDI9XglnbZNVbNCCvMMv9SbS8WIUwCi8EGoldEKYhFu/XJCCgvVrKQWIkARSNLoMkFAEK3hh2xHsA5rVSqptEytRsgxZJdZowifK72ZMmTRqJIR2H6L8rwWhFrQCTQTiOAAZFEKqcrmLnIuF3XQmg07r5tOxmpbqi01VjWeqmq4JeHcSak5h7XcuIB7cp3X15CHakz/BfgSpPuqfPaT1+DHySXBsUUJNhOEbquuqoPYnyMe0HkLlUbjNsVkb9hMJ9pDGaNHUI6iM7KJnV7blE9goixD1j2oiDDVcPqNdn1Nukxs0RkNVPVcbNLw8WEn1hVSAlE1Pbb9y2SewZdhLU69wYOFieDsz92PsY38Zj58+ls1m5MGDSt7E3l2qw0fyWJz3rowR1YiWvWKJ7SK67ksp1/pW1Bdm9fYYGAonllrrLxR7K33i48K3GGtxv+1l7I6L76VxQ3exO3s7gz3gM6BjbHPnEBoc3OLCQpF1sMc7wdn74dSz26JtHZwTwmOdEl35ttzEzu1Wz4gsqUNolYd9X3K8Y1eVZ5BfgZu5I3Fr/8E1SOl1c8is1od4FomdgsN7/tsxxLbOZq0t47DbCaFrqrO+ISxS35zq5ipyYwFjaWDyiI9ziK0tsj6+eBMgd/i43Nhs/Nu46bQJ0ZcGVAxbZ6bYHKwVp7k39cc6aB01Wo2jQyyU/cgYKvL+uLDo9WGoOL2udajzcwv/RJLZwbG9rd2x3cGcdMLLzts2Of3cyXPZV9OPjUfkRb3iJh4/5OQfANrx44edAvz3CIASAsHqz43v0S2bvlKKYiP8+fdlEIC//5cWgVuyUyPeB6iWCGofGaVvEk7T4wtk4WfcmYh4McgVjQuh1iI8CORmS0eukzSzEgSNmolQr///Nmo0yU+iZIUyxMoTLFGqZCkKBEuVoEAKL9nyZIqVAQ+UE8nTdH9C/xtH6AQAAA==) format('woff2');}
+.scan{opacity:.14;animation:scan 7s linear infinite}
+@keyframes scan{0%{transform:translateX(-40px);opacity:0}10%{opacity:.16}90%{opacity:.16}100%{transform:translateX(40px);opacity:0}}
+@media (prefers-reduced-motion: reduce){.scan{animation:none}}
+</style>
+<rect x=".5" y=".5" width="1199" height="339" rx="18" fill="#0b0b0a"/>
+<clipPath id="r"><rect width="1200" height="340" rx="18"/></clipPath>
+<g clip-path="url(#r)">
+<rect width="1200" height="340" fill="#0b0b0a"/>
+<rect width="1200" height="340" fill="url(#vig)"/>
+<rect width="1200" height="340" fill="url(#hatch)" opacity=".05"/>
+<g clip-path="url(#clip)">
+<line class="scan" x1="0" y1="70" x2="1200" y2="70" stroke="#ff3b21" stroke-width="1" style="animation-delay:0s"/>
+<line class="scan" x1="0" y1="150" x2="1200" y2="150" stroke="#ff3b21" stroke-width="1" style="animation-delay:-3s"/>
+<line class="scan" x1="0" y1="250" x2="1200" y2="250" stroke="#ff3b21" stroke-width="1" style="animation-delay:-6s"/>
+<line class="scan" x1="0" y1="300" x2="1200" y2="300" stroke="#ff3b21" stroke-width="1" style="animation-delay:-1.5s"/>
+</g>
+<line x1="80" y1="56" x2="1120" y2="56" stroke="#3a3833"/>
+<text x="80" y="44" font-family="f2" font-size="13" letter-spacing="2" fill="#9a958a">OPERATOR FILE   /   TLP:CLEAR   /   REV 2026.10</text>
+<text x="947.1" y="44" font-family="f2" font-size="13" letter-spacing="2" fill="#9a958a">SAMSUN · TR · UTC+3</text>
+<path d="M80 108V92H96" fill="none" stroke="#ff3b21" stroke-width="2"/>
+<path d="M1120 76V92H1104" fill="none" stroke="#ff3b21" stroke-width="2"/>
+<text x="80" y="188" font-family="f1" font-size="92" fill="#ece8de" letter-spacing="1">EMRE KADIR DAĞDELEN</text>
+<text x="82" y="224" font-family="f4" font-size="18" letter-spacing="1" fill="#ff3b21">@dagdelean<animate attributeName="opacity" values="1;.35;1" dur="2.4s" repeatCount="indefinite"/></text>
+<text x="80" y="276" font-family="f3" font-size="21" fill="#cfc9bb">I build for the web — and I am training to break it.</text>
+<line x1="80" y1="300" x2="1120" y2="300" stroke="#252421"/>
+<text x="80" y="322" font-family="f2" font-size="12" letter-spacing="1.5" fill="#67635a">CLASS  Offensive security, in training        STATUS  shipping · studying · open to work</text>
+</g>
+<rect x=".5" y=".5" width="1199" height="339" rx="18" fill="none" stroke="#3a3833"/>
+</svg>
