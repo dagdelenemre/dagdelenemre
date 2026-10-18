@@ -56,7 +56,7 @@
   <img src="assets/h-stack-light.svg" height="40" alt="Stack">
 </picture>
 
-<img src="assets/stack.svg" width="100%" alt="Languages: Python · C (C11) · C++ · C# · JavaScript · HTML · CSS">
+<img src="assets/stack.svg" width="100%" alt="Languages and web: Python · C (C11) · C++ · C# · Go · JavaScript · React · HTML · CSS">
 
 <br><br>
 

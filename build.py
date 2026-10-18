@@ -388,7 +388,7 @@ def wrap(font, text, x, y, maxw, size, lh, fill, max_lines=3):
 # STACK
 # ════════════════════════════════════════════════════════════════════════
 def stack():
-    items = ["Python", "C (C11)", "C++", "C#", "JavaScript", "HTML", "CSS"]
+    items = ["Python", "C (C11)", "C++", "C#", "Go", "JavaScript", "React", "HTML", "CSS"]
     W = 1140
     chipf = Font("mono", 520, 100)
     lab = Font("mono", 560, 100)
@@ -548,9 +548,9 @@ def capability():
 # ════════════════════════════════════════════════════════════════════════
 def clearances():
     rows = [
-        ("LVL 1", "CAPT", "Certified Associate Penetration Tester · Hackviser", "HV-CAPT-P746FUJO"),
+        ("LVL 3", "CAPT", "Certified Associate Penetration Tester · Hackviser", "HV-CAPT-P746FUJO"),
         ("LVL 2", "Siber Vatan", "Penetration Testing Training, 200 hours · national program", "12625794724929"),
-        ("LVL 3", "HV-CORE", "Hackviser Core Certification · Hackviser", "HV-CORE-0F82DTZZ"),
+        ("LVL 1", "HV-CORE", "Hackviser Core Certification · Hackviser", "HV-CORE-0F82DTZZ"),
     ]
     W = 1140
     P = 28
@@ -567,7 +567,7 @@ def clearances():
              grain(W, H, ".04")]
     parts.append(
         f'<text x="{P}" y="34" font-family="{lab.css}" font-size="12" '
-        f'letter-spacing="2" fill="{ASH}">ESCALATION LOG · CREDENTIAL IDs ARE VERIFIABLE</text>')
+        f'letter-spacing="2" fill="{ASH}">HIGHEST CLEARANCE FIRST · CREDENTIAL IDs ARE VERIFIABLE</text>')
 
     for i, (lvl, name, desc, cid) in enumerate(rows):
         y = top + i * rh
