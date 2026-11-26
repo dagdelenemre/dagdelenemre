@@ -18,7 +18,6 @@
 </picture>
 
 - **Builder** @ **Stellar Ambassadors Türkiye** · building [x402-stellar](https://github.com/dagdelenemre/x402-stellar), x402 payments on Stellar for Python
-- **Founder** @ **Pollykoo Agency** · end-to-end websites for small businesses, since 2024
 - **Board of directors** @ **OMÜ Siber** · the cyber security community at Ondokuz Mayıs University
 - **B.Sc. Information Security Technology** @ OMÜ · 2025–2029 · heading toward red team work
 - **Previously: co-founder** @ **Akça Network** · privacy-focused VPN on Solana; built it from the Colosseum hackathon to a working MVP
