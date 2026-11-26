@@ -641,6 +641,14 @@ def main():
          ["ARX", "CTR", "hash", "C11"],
          "WITH WRITE-UP", "github.com/dagdelenemre/bicbic416", seed=2)
 
+    card("x402-stellar", "TOOL 03 · PYTHON 3.10+ · MIT · PyPI", "x402-stellar",
+         "pip install x402-stellar",
+         "x402 payments on Stellar for Python: agents pay per request, FastAPI "
+         "routes charge in USDC, and a built-in facilitator settles on Soroban. "
+         "Plugs into the official x402 Python SDK.",
+         ["x402", "Soroban", "FastAPI", "agents"],
+         "65 TESTS", "github.com/dagdelenemre/x402-stellar", seed=5)
+
     card("omusiber", "ENG 04 · DESIGN · BUILD · DEPLOY", "omusiber.org",
          "OMU Siber · live 28.09.2026",
          "Website for the Ondokuz Mayis University cyber security community, whose "

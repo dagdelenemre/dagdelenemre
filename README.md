@@ -17,9 +17,10 @@
   <img src="assets/h-currently-light.svg" height="40" alt="Currently">
 </picture>
 
-- **Founder** @ **Pollykoo Agency** · end-to-end websites for small businesses, since 2024
+- **Builder** @ **Stellar Ambassadors Türkiye** · building [x402-stellar](https://github.com/dagdelenemre/x402-stellar), x402 payments on Stellar for Python
 - **Board of directors** @ **OMÜ Siber** · the cyber security community at Ondokuz Mayıs University
 - **B.Sc. Information Security Technology** @ OMÜ · 2025–2029 · heading toward red team work
+- **Previously: co-founder** @ **Akça Network** · privacy-focused VPN on Solana; built it from the Colosseum hackathon to a working MVP
 - In the lab right now: Windows internals & the Win32 API, Active Directory attack paths, applied cryptography
 
 <br>
@@ -30,15 +31,18 @@
 </picture>
 
 <p>
+  <a href="https://github.com/dagdelenemre/x402-stellar"><img src="assets/p-x402-stellar.svg" width="49%" alt="x402-stellar · x402 payments on Stellar for Python: agents pay per request, FastAPI routes charge in USDC, and a built-in facilitator settles on Soroban. Plugs into the official x402 Python SDK. 65 tests."></a>
   <a href="https://github.com/dagdelenemre/nopanic"><img src="assets/p-nopanic.svg" width="49%" alt="nopanic · the resilience toolkit Python was missing: retry, circuit breaker, timeout, rate limit, bulkhead, hedging and fallback behind one decorator API. 141 tests, zero runtime deps."></a>
-  <a href="https://github.com/dagdelenemre/bicbic416"><img src="assets/p-bicbic416.svg" width="49%" alt="bicbic416 · an experimental 416-bit block cipher written in portable C11, with CTR mode, a hash, a file-encryption tool, a browser build and a Python reference, plus its own cryptanalysis report."></a>
 </p>
 <p>
+  <a href="https://github.com/dagdelenemre/bicbic416"><img src="assets/p-bicbic416.svg" width="49%" alt="bicbic416 · an experimental 416-bit block cipher written in portable C11, with CTR mode, a hash, a file-encryption tool, a browser build and a Python reference, plus its own cryptanalysis report."></a>
   <a href="https://omusiber.org"><img src="assets/p-omusiber.svg" width="49%" alt="omusiber.org · website for the OMÜ cyber security community: six training tracks, an event calendar and a three-part flag hunt hidden in the page. Designed, built and deployed by me."></a>
+</p>
+<p>
   <a href="https://dagdelean.dev"><img src="assets/p-sites.svg" width="49%" alt="Client sites · end-to-end production websites through Pollykoo Agency: arzagro.com, lotusinsaatemlak.com and solislumentr.com."></a>
 </p>
 
-<sub>More on the tools and write-ups: <a href="https://github.com/dagdelenemre/nopanic">nopanic</a> · <a href="https://github.com/dagdelenemre/bicbic416">bicbic416</a> · <a href="https://pypi.org/user/dagdelean/">PyPI</a> · <a href="https://dagdelean.dev">the full operator file</a></sub>
+<sub>More on the tools and write-ups: <a href="https://github.com/dagdelenemre/x402-stellar">x402-stellar</a> · <a href="https://github.com/dagdelenemre/nopanic">nopanic</a> · <a href="https://github.com/dagdelenemre/bicbic416">bicbic416</a> · <a href="https://pypi.org/user/dagdelean/">PyPI</a> · <a href="https://dagdelean.dev">the full operator file</a></sub>
 
 <br><br>
 
